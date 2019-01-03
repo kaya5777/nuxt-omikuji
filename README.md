@@ -1,6 +1,7 @@
-# test-nuxt
+# nuxt-omikuji
 
-> Nuxt.js project
+Nuxt.jsの勉強を兼ねた2019年の書き初め。
+ただのおみくじ。
 
 ## Build Setup
 
